@@ -1,0 +1,55 @@
+.nav-link {
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 30px;
+    background: transparent;
+}
+.bg-light {
+    background-color: transparent!important;
+}
+
+
+.carousel-caption {
+    position: absolute;
+    right: 90%;
+    bottom: 360px;
+    left: 29%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    display: inline block;
+    background: gray;
+    
+}
+
+.list-group-item {
+    background-color: transparent;
+    border: none;
+    border-right-style: hidden;
+    
+}
+
+.list-group-item a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.list-group-item a:hover{
+    transition: .4s ease-out;
+    font-size: 21px;
+}
+
+.card {
+    display: inline-block;
+    margin: 5px;
+    margin-left: 50px;
+    border: none;
+}
+
+
+
