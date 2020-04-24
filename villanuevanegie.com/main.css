@@ -51,5 +51,39 @@
     border: none;
 }
 
+.social li  {
+    display: inline-block;
+    padding: 2px;
+}
+#contact img {
+    width: 140px;
+    margin: 5px 30px 10px 0;
+}
+
+
+.span4 img {
+    margin-right: 20px;
+    border-radius: 4px;
+}
+.span4 .img-left {
+    float: left;
+    margin-left: 13px;
+}
+.span4 .img-right {
+    float: right;
+}
+
+footer {
+    bottom: 0 auto;
+    margin: 0 auto;
+    top: 0 auto;
+}
+
+
+
+
+
+
+
 
 
